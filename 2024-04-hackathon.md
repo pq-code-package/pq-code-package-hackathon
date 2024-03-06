@@ -38,8 +38,8 @@ For raising issues around pq-code-package generally:
 
 ## Onboarding projects
 
-- [List of projects & contacts we hope to onboard](candidate-projects)
-- [getting started with setting up a new project][project-onboarding]
+- [List of projects & contacts we hope to onboard](candidate-projects.md)
+- [getting started with setting up a new project](project-onboarding.md)
 - Common documentation
 
 
