@@ -2,3 +2,10 @@
 
 # March 2024 hackathon
 
+## Objective
+
+## Collaboration
+
+## Getting started
+
+## Facilitators
