@@ -16,9 +16,10 @@ are below, but given the geographical spread there may be people available befor
 
 Thanks for joining the Hackathon. After all of the interest around the PQCA launch, we now want to start making it real by onboarding projects:
 
-* Get contributors starting to setup projects for ML-KEM implementations in this GitHub organization
+* Get contributors involved starting to setup projects for ML-KEM implementations in this GitHub organization
 * Create github repos with appropriate teams, permissions, controls, and start populating with code
 * Get initial build/compiles working & continue with any additional ci activities such as security scans
+* Start documenting the project
 * Bring the community together for real-time discussions and help to make this real
 
 ## Collaboration
@@ -37,9 +38,8 @@ For raising issues around pq-code-package generally:
 
 ## Onboarding projects
 
-- List of projects & contacts we hope to onboard
+- [List of projects & contacts we hope to onboard](candidate-projects)
 - getting started with setting up a new project
-
 
 
 ## Facilitators
