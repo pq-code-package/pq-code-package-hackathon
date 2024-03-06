@@ -7,17 +7,18 @@ are below, but given the geographical spread there may be people available befor
 
 | Timezone | Start | End |
 | --- | --- | --- |
-|  GMT | 1330 | 2100 |
+| GMT | 1330 | 2100 |
 | CET | 1430 | 2200 |
 | EST | 0830 | 1600 |
 | PST | 0530 | 1300 |  
 
 ## Objective
 
-Thanks for joining the Hackathon. After all of the interest around the PQCA launch, we now want to start making it real by onboarding projects:
+Thanks for joining the Hackathon. After all of the interest around the [PQCA](https://pqca.org) launch, we now want to start making it real by onboarding projects:
 
-* Get contributors involved starting to setup projects for ML-KEM implementations in this GitHub organization
-* Create github repos with appropriate teams, permissions, controls, and start populating with code
+* Get contributors for ML-KEM implementations together to kick-start the pq-code-package project.
+* Create github repos with appropriate teams, permissions.
+* Start populating those repos with code
 * Get initial build/compiles working & continue with any additional ci activities such as security scans
 * Start documenting the project
 * Bring the community together for real-time discussions and help to make this real
@@ -42,6 +43,10 @@ For raising issues around pq-code-package generally:
 - [getting started with setting up a new project](project-onboarding.md)
 - Common documentation
 
+## Other useful links
+
+- [Post Quantum Cryptography Alliance](https://pqca.org)
+- [Open Quantum Safe](https://openquantumsafe.org/)
 
 ## Facilitators
 
