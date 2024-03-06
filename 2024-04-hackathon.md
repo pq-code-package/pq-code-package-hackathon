@@ -39,7 +39,8 @@ For raising issues around pq-code-package generally:
 ## Onboarding projects
 
 - [List of projects & contacts we hope to onboard](candidate-projects)
-- getting started with setting up a new project
+- [getting started with setting up a new project][project-onboarding]
+- Common documentation
 
 
 ## Facilitators
