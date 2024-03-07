@@ -9,8 +9,8 @@ are below, but given the geographical spread there may be people available befor
 | --- | --- | --- |
 | GMT | 1330 | 2100 |
 | CET | 1430 | 2200 |
-| EST | 0830 | 1600 |
-| PST | 0530 | 1300 |  
+| EST | 0930 | 1700 |
+| PST | 0630 | 1400 |  
 
 ## Objective
 

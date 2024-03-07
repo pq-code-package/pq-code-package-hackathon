@@ -14,3 +14,8 @@ The following are ok to use, others need legal review
 | --- | --- | --- |
 Apache-2.0 | | Source code|
 CC-BY-4.0 | | Documentation 
+
+## Required files
+
+| File | Description |
+| -- | -- |
