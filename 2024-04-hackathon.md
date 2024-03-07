@@ -40,7 +40,9 @@ For raising issues around pq-code-package generally:
 ## Onboarding projects
 
 - [List of projects & contacts we hope to onboard](candidate-projects.md)
-- [getting started with setting up a new project](project-onboarding.md)
+- [Github project creation](project-onboarding.md)
+- [source code requirements](source-requirements.md)
+- [code scanning](code-scanning.md)
 - Common documentation
 
 ## Other useful links

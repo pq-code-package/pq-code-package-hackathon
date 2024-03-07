@@ -5,6 +5,8 @@
 - Project source should be either under the Apache-2.0 or MIT license
 - Documentation should be CC-BY-4.0
 
+Any other license will need legal approval
+
 ## Creating a Github repo
 
 1. Decide on an initial name for the repo. 
@@ -32,4 +34,15 @@
                 - any other relevant access into
         - anything else relevant...
 
-    - Alternatively in the issue specify the source repo to migrate the code from & engage in a discussion as to the best way to acheive this
+    - Alternatively in the issue specify the source repo to migrate the code from & engage in a discussion as to the best way to achieve this
+
+## Teams
+
+All access should be controlled through teams
+
+To be written
+
+Branch Protection
+Approvals
+other settings
+project setup
