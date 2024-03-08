@@ -15,7 +15,7 @@ For another other license, legal approval is required.
 All source code should contain SPDX license headers where possible:
 
 
-* [SPDX documentaion](https://spdx.dev/learn/handling-license-info/)
+* [SPDX documentation](https://spdx.dev/learn/handling-license-info/)
 * [SPDX license labels to use](https://spdx.org/licenses/)
 
 This helps with automated checks and other processes.
