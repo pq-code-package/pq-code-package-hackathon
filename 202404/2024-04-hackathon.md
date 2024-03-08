@@ -43,7 +43,7 @@ There's also a variety of chat channels:
 For raising issues around pq-code-package generally:
  - [TSC issues](https://github.com/pq-code-package/tsc)
 
- As projects onboard, issues can be raised in their own repositories.
+ As projects onboard, issues can be raised in their own repositories, and we can add new channels in Discord.
 
 ## Onboarding projects
 
@@ -52,6 +52,7 @@ For raising issues around pq-code-package generally:
 - [standard files](standard-files.md)
 - [build & ci](code-scanning.md)
 - [Documentation](docs.md)
+
 
 ## What next?
 
