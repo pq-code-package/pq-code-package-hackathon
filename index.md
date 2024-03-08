@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Hackathons
+# PQ-Code-Package Hackathons
 
 If you're aware our upcoming Hackathon, jump straight in. If not, read on ...
 * [2024 04 hackathon](2024-04-hackathon.md) - Tue 12 April 2024
