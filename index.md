@@ -3,7 +3,7 @@
 # PQ-Code-Package Hackathons
 
 If you're aware our upcoming Hackathon, jump straight in. If not, read on ...
-* [2024 04 hackathon](2024-04-hackathon.md) - Tue 12 April 2024
+* [2024 04 hackathon](202404/2024-04-hackathon.md) - Tue 12 April 2024
 
 ## About the PQCA
 
@@ -38,4 +38,4 @@ The next tangible step in this journey is to start on-boarding projects & bring 
 
 To get focussed on this we've setup our initial hackathon & look forward to making great progress
 
-[Head over to the 2024 04 Hackathon page](2024-04-hackathon.md)
+[Head over to the 2024 04 Hackathon page](202404/2024-04-hackathon.md)
