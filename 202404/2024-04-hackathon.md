@@ -1,5 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
-
+redirect_from:
+  - /2024-04-hackathon
+  
 # March 2024 hackathon
 
 The initial hackathon for the post-quantum code package will take place on Tue 12 March.
