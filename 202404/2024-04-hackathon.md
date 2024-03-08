@@ -49,9 +49,9 @@ For raising issues around pq-code-package generally:
 
 - [Licensing/Legal](licensing.md)
 - [Github repository](project-onboarding.md)
-- [source code requirements](source-requirements.md)
+- [standard files](standard-files.md)
 - [build & ci](code-scanning.md)
-- [Documentation][docs.md]
+- [Documentation](docs.md)
 
 ## What next?
 

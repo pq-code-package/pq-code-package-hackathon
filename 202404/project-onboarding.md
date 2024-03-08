@@ -1,3 +1,4 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 # Project Onboarding
 
 ## License Requirements
@@ -14,7 +15,7 @@ Any other license will need legal approval
 2. Use the [tsc repo issues](https://github.com/pq-code-package/tsc/issues) to request a repository for the implementation including:
    - name
    - description
-   - Appropriate access groups:
+   - Appropriate access groups (teams):
      - admins
      - maintainers
      - core contributors
@@ -24,11 +25,24 @@ Any other license will need legal approval
 
 ## Teams
 
-All access should be controlled through teams
+All access will be controlled through teams defined at the organization level.
 
-To be written
+## Repository configuration
 
-Branch Protection
-Approvals
-other settings
-project setup
+
+DCO will be enabled, ie all changes need to be [signed off](https://wiki.linuxfoundation.org/dco). This is required to submit to the project.
+
+There may be some variations on other configuration, particularly for any well-established projects, but by default:
+
+* default branch is 'main'
+* repository is public
+* changes are done through a pull request
+    * merge, squash, rebase all allowed
+    * pull request branch should be up to date
+    * auto-merge is allowed
+    * head branches are not deleted
+* changes need to be approved by 1 approver
+* issues & projects are enabled
+
+For contributors we'd expect a typical open source [fork and pull model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model) to be used
+

@@ -1,21 +1,13 @@
-# Source code requirements
-
-## Licensing
-
-All source code should contain SPDX license headers.
-
-
-* https://spdx.dev/learn/handling-license-info/ for more documentation
-* https://spdx.org/licenses/ has a full list of labels
-
-The following are ok to use, others need legal review
-
-| SPDX Tag | Example | Used for |
-| --- | --- | --- |
-Apache-2.0 | | Source code|
-CC-BY-4.0 | | Documentation 
-
-## Required files
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+# Standard files
 
 | File | Description |
 | -- | -- |
+| README.md | Introduction to the project |
+| LICENSE | LICENSE notices
+| CODE_OF_CONDUCT.md | |
+| MAINTAINERS.md | List of maintainers|
+| CONTRIBUTING.md | Guidance for contributors |
+| SECURITY.md | Security Policy, including how to report a security bug |
+| CODEOWNERS | defines owners (for automatic approval assignment). *Must use group definitions*
+As part of the Hackathon, creating a template project with these files already in place would be useful!

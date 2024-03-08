@@ -1,13 +1,20 @@
-# Code Scanning
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+# Actions
 
-# OSSF Scorecard
+It's expected most projects will use Github actions where the capabilities are sufficient, and that the following will be set up:
 
-Each project should integrate a scan using the OSSF scorecard
+## build / test / package / linting
 
-See https://github.com/ossf/scorecard
+As needed by the project
 
-# vulnerability scanning
+## OSSF Scorecard
 
-tbd
+[OSSF scorecard](https://securityscorecards.dev/) assesses a project for best practice. 
 
-# linting & other checks
+Each project should integrate a scan using the OSSF scorecard github action.
+
+
+## vulnerability scanning
+
+[CodeQL](https://codeql.github.com/) is available for open-source projects, and should be considered if appropriate for the language used.
+

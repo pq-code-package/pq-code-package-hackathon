@@ -1,3 +1,4 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 # Candidate projects
 
 The following projects have been discussed as candidates for pq-code-package.
