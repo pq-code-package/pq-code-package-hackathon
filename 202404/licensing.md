@@ -1,5 +1,5 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
-# Licensing
+## Licensing
 
 Projects onboarded should be licensed under:
 
@@ -10,7 +10,11 @@ CC-BY-4.0 | | Documentation
 
 For another other license, legal approval is required.
 
-## Source files
+## Copyright
+
+See [https://www.linuxfoundation.org/blog/blog/copyright-notices-in-open-source-software-projects](https://www.linuxfoundation.org/blog/blog/copyright-notices-in-open-source-software-projects) for guidance on copyright
+
+## Source file - SPDX headers
 
 All source code should contain SPDX license headers where possible:
 
