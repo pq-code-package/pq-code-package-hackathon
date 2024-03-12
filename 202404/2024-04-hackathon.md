@@ -41,6 +41,8 @@ There's also a variety of chat channels:
  - [Discord](https://discord.com/channels/1202723482224295936/1203396039977996359) - if needed you can [signup here](https://discord.com/invite/xyVnwzfg5R)
  - [Github discussions](https://github.com/orgs/pq-code-package/discussions)
 
+Existing mailing lists are at [https://lists.pqca.org](https://lists.pqca.org)
+
 For raising issues around pq-code-package generally:
  - [TSC issues](https://github.com/pq-code-package/tsc)
 
