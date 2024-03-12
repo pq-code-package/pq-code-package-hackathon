@@ -8,8 +8,9 @@
 | Zoom Conference | https://zoom.us/j/97821311660?pwd=My9rWVRkbHJXbEJHQVc5TGlkNFpyZz09 |
 | Discord (chat) Invite (under pqcp-*) | https://discord.com/invite/xyVnwzfg5R |
 | Github discussion | https://github.com/orgs/pq-code-package/discussions |
+| PQCA mailing lists | https://lists.pqca.org |
 | Hackathon Web Page | https://hackathon.pqcodepackage.org |
-| Request a repository | https://github.com/pq-code-package/tsc/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc |
+| Request a repository | https://github.com/pq-code-package/tsc/issues |
 | Standard template for new repos | https://github.com/pq-code-package/template-code |
 | Documentation site to develop (published) | https://docs.pqcodepackage.org/ |
 | Documentation site (source) | https://github.com/pq-code-package/documentation |
