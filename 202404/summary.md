@@ -3,6 +3,7 @@
 ## Top achievements
 * Initial onboarding of 4 MLKEM implementation repositories
 * 14 contributors
+* Getting discussions going on the project
 
 ## New org members
 
