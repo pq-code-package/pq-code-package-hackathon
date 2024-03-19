@@ -6,7 +6,7 @@
 
 ## New org members
 
-Hoping not to miss anyone out, these are the people added to the org (github ids) as maintainers/contributors to the projects below
+These are the people added to the org (github ids) as maintainers/contributors to the projects below
 - mkannwischer
 - planetf1
 - dstebila
@@ -22,7 +22,7 @@ Hoping not to miss anyone out, these are the people added to the org (github ids
 - tfaoliveira
 - ashman-p
 
-Others who helped out in du Hart & Ry (LF) & Max.
+Aided by others in discussion including Hart, Ry, Max.
 
 
 ## Repository activity
