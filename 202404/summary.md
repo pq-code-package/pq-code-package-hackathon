@@ -33,7 +33,7 @@ Aided by others in discussion including Hart, Ry, Max.
 | tsc | Record requests for new repo/teams/access|
 | mlkem-c-embedded | Created repo and teams<br>Code added - Based on pqm4 repo<br>|
 | mlkem-c-generic | Created repo and teams<br>Awaiting code|
-| mklkem-libjade | Created repo and teams<br>Awaiting code|
+| mklkem-libjade | Created repo and teams<br>Awaiting code (assembly)|
 | mlkem-rust-libcrux | Created repo and teams<br>Awaiting code|
 | mlkem-c-aarch64 | Created repo and teams after hackathon|
 | documentation | mkdocs-material <br>[https://docs.pqcodepackage.org](https://docs.pqcodepackage.org/latest/) |
