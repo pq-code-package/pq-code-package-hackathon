@@ -3,9 +3,15 @@
 
 # March 2024 hackathon
 
-The initial hackathon for the post-quantum code package will take place on Tue 12 March. [QUICKSTART](quickstart.md)
+The initial hackathon for the post-quantum code package took place on Tue 12 March. [QUICKSTART](quickstart.md)
+
+[Notes from the hackathon are available](summary.md)
 
 
+The remainder of this content is left for posterity...
+
+<hr>
+<hr>
 
 ## Objective
 
