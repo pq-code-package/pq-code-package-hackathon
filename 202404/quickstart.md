@@ -5,7 +5,7 @@
 | --- | --- |
 | Objective | Onboard projects into https://github.com/pq-code-package (part of https://pqca.org): create github repo/create teams/add code/add ci pipelines for build, test, checks & best practice/add pqcp docs|
 | When | 1330-2100 UTC |
-| Zoom Conference | https://zoom.us/j/97821311660?pwd=My9rWVRkbHJXbEJHQVc5TGlkNFpyZz09 |
+| Zoom Conference | https://zoom.us/j/97821311660?pwd=My9rWVRkbHJXbEJHQVc5TGlkNFpyZz09 <br> (Requires log in to a Zoom account)|
 | Discord (chat) Invite (under pqcp-*) | https://discord.com/invite/xyVnwzfg5R |
 | Github discussion | https://github.com/orgs/pq-code-package/discussions |
 | PQCA mailing lists | https://lists.pqca.org |
